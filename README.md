@@ -26,7 +26,7 @@ ___
 
 ## Установка
 ___
-Скачиваем [Archiver-1.0-SNAPSHOT.jar](resources%2FArchiver-1.0-SNAPSHOT.jar).
+Скачиваем [Archiver-1.0-SNAPSHOT.jar](https://github.com/MorozovArYu/Archiver/raw/main/resources/Archiver-1.0-SNAPSHOT.jar).
 
 В командной строке прописываем команду:
 
